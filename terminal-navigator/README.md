@@ -16,24 +16,19 @@ Este é um navegador de terminal simples, escrito em Bash, que permite gerenciar
 
 ## Instalação
 
-1. **Clone o repositório (se aplicável)**:
-    ```bash
-    git clone <URL_DO_REPOSITORIO>
-    cd <NOME_DO_DIRETORIO>
-    ```
 
-2. **Torne o script executável**:
+1. **Torne o script executável**:
     ```bash
     chmod +x terminal_browser.sh
     ```
 
-3. **Instale o Tor**:
+2. **Instale o Tor**:
     ```bash
     sudo apt update
     sudo apt install tor
     ```
 
-4. **Inicie o serviço Tor**:
+3. **Inicie o serviço Tor**:
     ```bash
     sudo systemctl start tor
     ```
