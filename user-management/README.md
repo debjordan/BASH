@@ -16,11 +16,6 @@ Este é um script Bash simples para facilitar o gerenciamento de usuários e per
 
 ## Instalação
 
-1. **Clone o repositório ou faça o download do script:**
-
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <DIRETORIO_DO_REPOSITORIO>
 
 Dê permissão de execução ao script:
 
