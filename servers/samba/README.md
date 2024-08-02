@@ -17,11 +17,6 @@ Este repositório contém um script Bash para configurar automaticamente um serv
 
 ## Como Usar
 
-1. Clone o repositório:
-
-   ```bash
-   git clone <URL_DO_SEU_REPOSITORIO>
-   cd nome_do_repositorio
 
 Torne o script executável:
 
